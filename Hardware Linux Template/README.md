@@ -1,0 +1,4 @@
+#Pacotes necessários
+* pciutils
+* usbutils
+
